@@ -13,7 +13,7 @@ function App() {
     <>
     
      <NavBar/> 
-     <ItemListContainer greeting="Buenas profe. Todavía no sé que marca realizar pero aquí se van a ubicar los productos en las proximas entregas:"/>
+     <ItemListContainer greeting="Buenas profe... Todavía no sé que marca realizar pero aquí se van a ubicar los productos en las proximas entregas:"/>
      
     </>
   );
